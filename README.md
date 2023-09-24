@@ -1,4 +1,4 @@
-#Project Title: Fuel Consumption
+# Project Title: Fuel Consumption
 
 ## Context:
 Canada uses more energy per capita than any other country in the world. One of the contributing factor is the reliance on automobiles. In fact, Canada have one of the highest ratios of car ownership in the world, with close to one vehical for every two Canadians. Climate change, sustainability, energy and fuel consumption from transportation are all interrelated topics that are worth investigating.
