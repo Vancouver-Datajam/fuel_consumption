@@ -21,4 +21,4 @@ Team Members: Christina, InHwa, Janet, Janice, Lina, Minh, Stephanie
 [Link](https://www.kaggle.com/datasets/freddyclchen/fuel-consumption-ratings).  
 
 ### Method
-Data cleaning -> Data exploration -> Data Visualization
+Data cleaning -> Data exploration and visualization -> Data analysis
